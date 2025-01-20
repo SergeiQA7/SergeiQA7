@@ -27,12 +27,15 @@ Cписок пройденных курсов/List of completed courses
 
 CERTIFICATES
 
-![stepik-certificate-118842-298df9a-6.pdf](https://github.com/user-attachments/files/18478346/stepik-certificate-118842-298df9a-6.pdf)
+![stepik-certificate-118842-298df9a-6-2](https://github.com/user-attachments/assets/4ac32d96-8d56-426-986-1ded91e12190)
+
 
 
 LANGUAGES AND TOOLS 
 
-TEST DOCUMENTATION 
+## TEST DOCUMENTATION 
+
+ПРИМЕРЫ ТЕСТОВОЙ ДОКУМЕНТАЦИИ 
 
 FOLLOW ME 
 
