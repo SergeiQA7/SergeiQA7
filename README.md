@@ -1,4 +1,7 @@
-## QA JUNIOR/TEASTER
+![qa-1024x576](https://github.com/user-attachments/assets/b8c7e9c5-82c4-44b1-8c34-bdf369d73482)
+
+
+## QA JUNIOR/TEASTER 
 
 ОБО МНЕ/ABOUT ME
 
@@ -23,7 +26,10 @@ Cписок пройденных курсов/List of completed courses
 
 
 
-CERTIFICATES 
+CERTIFICATES
+
+![stepik-certificate-118842-298df9a-6.pdf](https://github.com/user-attachments/files/18478346/stepik-certificate-118842-298df9a-6.pdf)
+
 
 LANGUAGES AND TOOLS 
 
