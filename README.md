@@ -16,8 +16,10 @@ Cписок пройденных курсов/List of completed courses
 [Тестирование ПО с нуля. Теория + Практика Artsiom Rusau](https://stepik.org/users/483341705/teach)
 
 [Тестирование ПО: Postman для тестирования API Константин Барзаковский](https://stepik.org/course/120679/syllabus)
-[]
-[]
+
+[Введение в SQL Ирина Selectовна](https://stepik.org/course/191774/info)
+
+[Вселенная тестирования, или Как стать тестировщиком «Кавычки»](https://stepik.org/course/118842/info)
 
 
 
