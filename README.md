@@ -24,10 +24,12 @@ Cписок пройденных курсов/List of completed courses
 [Вселенная тестирования, или Как стать тестировщиком «Кавычки»](https://stepik.org/course/118842/info)
 
 
-
 CERTIFICATES
 
-![stepik-certificate-118842-298df9a-6-2](https://github.com/user-attachments/assets/4ac32d96-8d56-426-986-1ded91e12190)
+![stepik-certificate-171826-1d08063-11-1](https://github.com/user-attachments/assets/13521103-aca0-49d9-8172-9499e104ebc9)
+![stepik-certificate-118842-298df9a-6-1-3](https://github.com/user-attachments/assets/b27d95e3-2211-4eb8-9754-572d564d060d)
+![stepik-certificate-191774-d5f3c37-4-1](https://github.com/user-attachments/assets/ba6421b1-c5cf-4636-9651-7ef91536220a)
+![stepik-certificate-120679-e624cec-3-1](https://github.com/user-attachments/assets/25a7e390-34f8-4d18-8659-9b34090ae386)
 
 
 
