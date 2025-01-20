@@ -26,7 +26,7 @@ CПИСОК ПРОЙДЕННЫХ КУРСОВ /LIST OF COMPLETED COURSES
 - [Вселенная тестирования, или Как стать тестировщиком «Кавычки»](https://stepik.org/course/118842/info)
 
 
-LANGUAGES AND TOOLS 
+## LANGUAGES AND TOOLS 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
@@ -58,7 +58,7 @@ LANGUAGES AND TOOLS
 - [КОЛЛЕКЦИИ POSTMAN/POSTMAN COLLECTIONS]() 
 - [SQL ЗАПРОСЫ/SQL QUERIES]()
 
-CERTIFICATES
+## CERTIFICATES
 
 ![stepik-certificate-171826-1d08063-11-1](https://github.com/user-attachments/assets/13521103-aca0-49d9-8172-9499e104ebc9)
 ![stepik-certificate-118842-298df9a-6-1-3](https://github.com/user-attachments/assets/b27d95e3-2211-4eb8-9754-572d564d060d)
