@@ -55,6 +55,9 @@ CПИСОК ПРОЙДЕННЫХ КУРСОВ /LIST OF COMPLETED COURSES
 - [ЧЕКЛИСТЫ/CHEKLISTS]()
 - [ТЕСТ-КЕЙС/TEST-CASES]()
 - [БАГ-РЕПОРТ/BUG-REPORTS]()
+
+  API/SQL 
+
 - [КОЛЛЕКЦИИ POSTMAN/POSTMAN COLLECTIONS]() 
 - [SQL ЗАПРОСЫ/SQL QUERIES]()
 
