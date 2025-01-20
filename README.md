@@ -17,13 +17,13 @@ I am currently studying automation in Python.
 
 CПИСОК ПРОЙДЕННЫХ КУРСОВ /LIST OF COMPLETED COURSES
 
-[Тестирование ПО с нуля. Теория + Практика Artsiom Rusau](https://stepik.org/users/483341705/teach)
+- [Тестирование ПО с нуля. Теория + Практика Artsiom Rusau](https://stepik.org/users/483341705/teach)
 
-[Тестирование ПО: Postman для тестирования API Константин Барзаковский](https://stepik.org/course/120679/syllabus)
+- [Тестирование ПО: Postman для тестирования API Константин Барзаковский](https://stepik.org/course/120679/syllabus)
 
-[Введение в SQL Ирина Selectовна](https://stepik.org/course/191774/info)
+- [Введение в SQL Ирина Selectовна](https://stepik.org/course/191774/info)
 
-[Вселенная тестирования, или Как стать тестировщиком «Кавычки»](https://stepik.org/course/118842/info)
+- [Вселенная тестирования, или Как стать тестировщиком «Кавычки»](https://stepik.org/course/118842/info)
 
 
 LANGUAGES AND TOOLS 
@@ -52,6 +52,11 @@ LANGUAGES AND TOOLS
 
 ПРИМЕРЫ ТЕСТОВОЙ ДОКУМЕНТАЦИИ 
 
+- [ЧЕКЛИСТЫ/CHEKLISTS]()
+- [ТЕСТ-КЕЙС/TEST-CASES]()
+- [БАГ-РЕПОРТ/BUG-REPORTS]()
+- [КОЛЛЕКЦИИ POSTMAN/POSTMAN COLLECTIONS]() 
+- [SQL ЗАПРОСЫ/SQL QUERIES]()
 
 CERTIFICATES
 
@@ -62,4 +67,13 @@ CERTIFICATES
 
 
 FOLLOW ME 
+  <div id="badges">
+    <a href="" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
+
 
