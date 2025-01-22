@@ -52,7 +52,7 @@ CПИСОК ПРОЙДЕННЫХ КУРСОВ /LIST OF COMPLETED COURSES
 
 ПРИМЕРЫ ТЕСТОВОЙ ДОКУМЕНТАЦИИ 
 
-- [ЧЕКЛИСТЫ/CHEKLISTS]()
+- [ЧЕКЛИСТЫ/CHEKLISTS](https://docs.google.com/spreadsheets/d/1zCvcAqsDCrIimd-Knz_5QSRLyoQyYh0ep9u94OX-4B4/edit?usp=drive_link)
 - [ТЕСТ-КЕЙС/TEST-CASES]()
 - [БАГ-РЕПОРТ/BUG-REPORTS]()
 
