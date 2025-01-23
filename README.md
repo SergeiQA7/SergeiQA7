@@ -50,7 +50,7 @@ CПИСОК ПРОЙДЕННЫХ КУРСОВ /LIST OF COMPLETED COURSES
 
 ## TEST DOCUMENTATION 
 
-ПРИМЕРЫ ТЕСТОВОЙ ДОКУМЕНТАЦИИ 
+ПРИМЕРЫ МОЕЙ ТЕСТОВОЙ ДОКУМЕНТАЦИИ 
 
 - [ЧЕКЛИСТЫ/CHEKLISTS](https://docs.google.com/spreadsheets/d/1zCvcAqsDCrIimd-Knz_5QSRLyoQyYh0ep9u94OX-4B4/edit?usp=drive_link)
 - [ТЕСТ-КЕЙС/TEST-CASES](https://github.com/SergeiQA7/TEST-CASE.git)
