@@ -54,7 +54,7 @@ CПИСОК ПРОЙДЕННЫХ КУРСОВ /LIST OF COMPLETED COURSES
 
 - [ЧЕКЛИСТЫ/CHEKLISTS](https://docs.google.com/spreadsheets/d/1zCvcAqsDCrIimd-Knz_5QSRLyoQyYh0ep9u94OX-4B4/edit?usp=drive_link)
 - [ТЕСТ-КЕЙС/TEST-CASES](https://github.com/SergeiQA7/TEST-CASE.git)
-- [БАГ-РЕПОРТ/BUG-REPORTS](https://app.qase.io/defect/ALIEXPRESS?page=1&status=%5B0%5D)
+- [БАГ-РЕПОРТ/BUG-REPORTS](https://docs.google.com/spreadsheets/d/17OqjoBjU7DbVdBNwvKKk2jabwkNSkFLYBuD21wL1nWU/edit?gid=1065131984#gid=1065131984)
 
   API/SQL 
 
