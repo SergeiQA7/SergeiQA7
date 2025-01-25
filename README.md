@@ -1,6 +1,6 @@
 ![1827e827b24ac1b92fb7d6a74b920e93](https://github.com/user-attachments/assets/2a7e9d0c-e8bf-4a45-96f5-25a2ff819645)
 
-## QA JUNIOR/TEASTER 
+## QA JUNIOR/SOFTWARE TESTER 
 
 ОБО МНЕ/ABOUT ME
 
