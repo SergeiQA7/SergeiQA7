@@ -58,7 +58,7 @@ CПИСОК ПРОЙДЕННЫХ КУРСОВ /LIST OF COMPLETED COURSES
 
   API/SQL 
 
-- [КОЛЛЕКЦИИ POSTMAN/POSTMAN COLLECTIONS]() 
+- [КОЛЛЕКЦИИ POSTMAN/POSTMAN COLLECTIONS](https://www.postman.com/sergeiqa1807/workspace/partfolio-workspace/collection/41538665-2ece66c0-58fc-495d-96ba-3a4ad5cd088b?action=share&creator=41538665&active-environment=41538665-fc39aa33-f697-4105-b9d5-354ff23f1618) 
 - [SQL ЗАПРОСЫ/SQL QUERIES]()
 
 ## CERTIFICATES
