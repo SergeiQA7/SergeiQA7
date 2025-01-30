@@ -71,7 +71,7 @@ CПИСОК ПРОЙДЕННЫХ КУРСОВ /LIST OF COMPLETED COURSES
 
 FOLLOW ME 
   <div id="badges">
-    <a href="" target="">
+    <a href="https://www.linkedin.com/in/sergei-shapovalov-382581349/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="" target="_blank">
