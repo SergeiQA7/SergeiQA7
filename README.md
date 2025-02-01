@@ -13,7 +13,7 @@ I recently completed the courses and want to try myself in the field of manual t
 I am currently studying automation in Python.
 
 ## MY CV
-[LINK TO MY CV]()
+[LINK TO MY CV](https://github.com/SergeiQA7/CV/blob/main/CV.pdf)
 
 CПИСОК ПРОЙДЕННЫХ КУРСОВ /LIST OF COMPLETED COURSES
 
