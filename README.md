@@ -52,7 +52,7 @@ CПИСОК ПРОЙДЕННЫХ КУРСОВ /LIST OF COMPLETED COURSES
 
 ПРИМЕРЫ МОЕЙ ТЕСТОВОЙ ДОКУМЕНТАЦИИ/EXAMPLES OF MY TEST DOCUMENTATION
 
-- [ЧЕКЛИСТЫ/CHEKLISTS](https://docs.google.com/spreadsheets/d/1zCvcAqsDCrIimd-Knz_5QSRLyoQyYh0ep9u94OX-4B4/edit?usp=drive_link)
+- [ЧЕКЛИСТЫ/CHEKLISTS](https://docs.google.com/spreadsheets/d/1hP5_C_WhcR9c58cG9VnO6s-bsS-e9xg5wA_P6YDR7d8/edit?gid=0#gid=0)
 - [ТЕСТ-КЕЙС/TEST-CASES](https://github.com/SergeiQA7/TEST-CASE.git)
 - [БАГ-РЕПОРТ/BUG-REPORTS](https://docs.google.com/spreadsheets/d/17OqjoBjU7DbVdBNwvKKk2jabwkNSkFLYBuD21wL1nWU/edit?gid=1065131984#gid=1065131984)
 
